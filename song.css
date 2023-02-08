@@ -59,17 +59,17 @@ body {
   .lyrics p {
     text-decoration:wavy;
     margin-bottom: 0.5em;
-    color: #d7dfe2;
+    color: #f4f4f4;
+    font-size: 18pt;
   }
   
-  .lyrics p:first-of-type {
-    font-weight: bold;
-  }
+  
 
   .refrain p{
     font-style: italic;
     text-align: center;
-    color: black;
+    font-size: 22pt;
+    color: rgb(25, 23, 25);
   }
 
   footer{
